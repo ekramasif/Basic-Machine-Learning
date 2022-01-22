@@ -40,7 +40,7 @@
 
 
 
-কোর্স: <br/>
+## কোর্স:
 
 * [Coursera Machine Learning](https://goo.gl/TJZUmy)<br/>
 * [EdX Machine Learning](https://goo.gl/fWHmdL)<br/>
