@@ -1,6 +1,8 @@
 
 <h1 align="center">বেসিক মেশিন লার্নিং</h1>
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ekramasif/Basic-Machine-Learning/blob/main/LICENSE)
+
 ## Maths 
 
  - Linear Algebra (Matrix, Vector)
