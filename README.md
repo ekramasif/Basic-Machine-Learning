@@ -72,6 +72,9 @@
   - [fast.ai course: A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
     - [A Code-First Intro to Natural Language Processing](https://github.com/fastai/course-nlp) on GitHub :octocat:
 
+  - Practical Deep Learning for Coders by fast.ai
+    - [See course materials](https://course.fast.ai/)
+      - With the ex president of Kaggle as one of its co-founders, this hands-on course focuses on getting things up and running. It has a forum with helpful discussions about the    latest best practices in machine learning.
 <p align="center">
   <a href="https://ekramasif.me">
     <img align="center" src="https://raw.githubusercontent.com/ekramasif/ekramasif/main/EkramAsif.gif" width="15%">
