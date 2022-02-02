@@ -75,6 +75,7 @@
   - Practical Deep Learning for Coders by fast.ai
     - [See course materials](https://course.fast.ai/)
       - With the ex president of Kaggle as one of its co-founders, this hands-on course focuses on getting things up and running. It has a forum with helpful discussions about the    latest best practices in machine learning.
+   - [হাতেকলমে মেশিন লার্নিং](https://rakibul-hassan.gitbook.io/mlbook-titanic/)
 <p align="center">
   <a href="https://ekramasif.me">
     <img align="center" src="https://raw.githubusercontent.com/ekramasif/ekramasif/main/EkramAsif.gif" width="15%">
