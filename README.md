@@ -75,4 +75,11 @@
     - [See course materials](https://course.fast.ai/)
       - With the ex president of Kaggle as one of its co-founders, this hands-on course focuses on getting things up and running. It has a forum with helpful discussions about the    latest best practices in machine learning.
    - [হাতেকলমে মেশিন লার্নিং](https://rakibul-hassan.gitbook.io/mlbook-titanic/)
+   
+   
+   
+## Our valuable Contributors👩‍💻👨‍💻 :
 
+<p align="center"><a href="https://github.com/ekramasif/Basic-Machine-Learning">
+  <img src="https://contributors-img.web.app/image?repo=ekramasif/Basic-Machine-Learning" />
+</a></p>
