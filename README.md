@@ -18,8 +18,6 @@
 - [Interview Resources](#interview)
 - [Artificial Intelligence](#ai)
 - [Genetic Algorithms](#ga)
-- [Statistics](#stat)
-- [Useful Blogs](#blogs)
 - [Resources on Quora](#quora)
 - [Resources on Kaggle](#kaggle)
 - [Cheat Sheets](#cs)
