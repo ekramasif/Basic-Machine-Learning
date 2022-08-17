@@ -61,6 +61,6 @@ Have anything in mind that you think is awesome and would fit in this list? Feel
    
 ## Our Valuable Contributors👩‍💻👨‍💻 :
 
-<p align="center"><a href="https://github.com/ekramasif/Basic-Machine-Learning">
+<p align="center">
   <img src="https://contributors-img.web.app/image?repo=ekramasif/Basic-Machine-Learning" />
 </a></p>
