@@ -59,8 +59,3 @@ Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send me a pull request!
    
    
-## Our Valuable Contributors👩‍💻👨‍💻 :
-
-<p align="center">
-  <img src="https://contributors-img.web.app/image?repo=ekramasif/Basic-Machine-Learning" />
-</a></p>
