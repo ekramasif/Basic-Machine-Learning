@@ -43,7 +43,6 @@
 - [Boosting](#gbm)
 - [Bayesian Machine Learning](#bayes)
 - [Semi Supervised Learning](#semi)
-- [Optimizations](#opt)
 - [Other Useful Tutorials](#other)
 
 <a name="general" />
