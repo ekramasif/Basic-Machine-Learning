@@ -58,3 +58,10 @@ Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send me a pull request!
    
    
+<a href="https://www.star-history.com/#ekramasif/Basic-Machine-Learning&Date">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ekramasif/Basic-Machine-Learning&type=Date&theme=dark" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ekramasif/Basic-Machine-Learning&type=Date" />
+<img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ekramasif/Basic-Machine-Learning&type=Date" />
+</picture>
+</a>
