@@ -55,7 +55,7 @@
 -----
 Contributing
 ----
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send me a pull request!
+Have anything in mind that you think is awesome and would fit in this list? </br> Feel free to send me a pull request!
    
    
 <a href="https://www.star-history.com/#ekramasif/Basic-Machine-Learning&Date">
